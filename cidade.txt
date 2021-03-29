@@ -1,1 +1,7 @@
 rib preto
+campinas
+sao paulo
+rio de janeiro
+brasilia
+belo horizonte
+
